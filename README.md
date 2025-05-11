@@ -1,7 +1,7 @@
 # Rapport de développement d'une application Android native avec SharedPreferences (Kotlin)
 
 
-![UI](./images/ui.png)
+![UI](./images/UI.png)
 
 
 ## 📄 Contexte du projet
